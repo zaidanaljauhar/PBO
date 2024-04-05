@@ -1,0 +1,1 @@
+aplikasi.data.diri.mahasiswa.AplikasiDataDiriMahasiswa
